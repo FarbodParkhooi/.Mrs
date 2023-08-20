@@ -1,3 +1,13 @@
+/* 
+    Hello!
+    If you hereyou are a researcher!
+    Im a human. My name is Farbod Parkhooi and Im from Iran.
+    XD!
+    it's jokey! 
+    you are in the .Mrs website files!
+    If you want copy this codes but follow the copyright law!
+    it has comment for easy read.
+*/
 body{
     margin: 0;
     display: flex;
@@ -73,6 +83,7 @@ h2{
     height: 100%;
     float: left;
 }
+/* Logo classes in bottom */
 .Logo{
     width: fit-content;
     height: 100%;
@@ -82,3 +93,4 @@ h2{
     width: 100%;
     height: 100%;
 }
+/* Logo classes in top */
