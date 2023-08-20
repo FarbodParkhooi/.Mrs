@@ -9,6 +9,9 @@ body{
     background-color: #f7c222;
     box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
 }
+h2{
+    margin: 0;
+}
 .Card-content{
     padding: 20px;
 }
