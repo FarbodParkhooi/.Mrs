@@ -6,7 +6,7 @@ body{
 }
 /* Info Card classes in bottom */
 .Info-card{
-    width: 100%;
+    width: fit-content;
     border-radius: 10px;
     height: auto;
     font-size: 20px;
@@ -16,6 +16,7 @@ body{
 }
 .Info-card:hover{
     box-shadow: 15px 20px 50px rgba(0, 0, 0, 0.1);
+    background-color: #ffc415;
 }
 h2{
     margin: 0;
@@ -73,7 +74,7 @@ h2{
     float: left;
 }
 .Logo{
-    width: 20%;
+    width: fit-content;
     height: 100%;
     float: left;
 }
