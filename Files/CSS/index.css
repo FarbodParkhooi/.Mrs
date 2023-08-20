@@ -99,7 +99,16 @@ h2{
     height: 50%;
     float: left;
 }
+.Register{
+    width: 5%;
+    height: 50%;
+    float: right;
+}
 /* Menu classes in top */
 .Persian-text{
     text-align: right;
+}
+.A-tag{
+    text-decoration: none;
+    color: white;
 }
