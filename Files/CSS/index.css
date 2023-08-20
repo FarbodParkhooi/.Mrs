@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    display: flex;
+    background-color: #f5c533;
+}
+.Info-card{
+    width: 300px;
+    border-radius: 10px;
+    background-color: #ffbf00;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+}
+.Card-content{
+    padding: 20px;
+}
