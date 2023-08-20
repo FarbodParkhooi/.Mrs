@@ -85,7 +85,7 @@ h2{
 }
 /* Logo classes in bottom */
 .Logo{
-    width: fit-content;
+    width: 20%;
     height: 100%;
     float: left;
 }
