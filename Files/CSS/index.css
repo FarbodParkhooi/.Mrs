@@ -100,7 +100,7 @@ h2{
     float: left;
 }
 .Register{
-    width: 5%;
+    width: 15%;
     height: 50%;
     float: right;
 }
@@ -111,4 +111,42 @@ h2{
 .A-tag{
     text-decoration: none;
     color: white;
+}
+input[type=text]{
+    border-radius: 25px;
+    border-color: #0e1318;
+    border-width: 5px;
+    background-color: #ffbf00;
+    border-style: double;
+    width: 90%;
+    padding: 2%;   
+    color: black !important;
+}
+input[type=email]{
+    border-radius: 25px;
+    border-color: #0e1318;
+    border-width: 5px;
+    border-style: double;
+    background-color: #ffbf00;
+    width: 90%;
+    padding: 2%;   
+    color: black !important;
+}
+input[type=number]{
+    border-radius: 25px;
+    border-color: #0e1318;
+    border-width: 5px;
+    border-style: double;
+    background-color: #ffbf00;
+    width: 90%;
+    padding: 2%;   
+    color: black !important;
+}
+button[type=submit]{
+    background-color: #ffbf00;
+    color: black !important;
+    width: 25%;
+    height: 25px;
+    border-radius: 10px;
+    border-style: double;
 }
