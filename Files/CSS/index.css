@@ -16,7 +16,7 @@ body{
 }
 /* Info Card classes in bottom */
 .Info-card{
-    width: 90%;
+    width: 400px;
     border-radius: 10px;
     height: auto;
     font-size: 20px;
@@ -100,3 +100,6 @@ h2{
     float: left;
 }
 /* Menu classes in top */
+.Persian-text{
+    text-align: right;
+}
