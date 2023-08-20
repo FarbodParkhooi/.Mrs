@@ -35,8 +35,7 @@ h2{
 .Div-head{   
     width: 100%;
     float: right;
-    height: 100px;
-    background-color: red;
+    height: 150px;
 }
 .Div-left{   
     width: 10%;
@@ -76,7 +75,7 @@ h2{
 .Logo{
     width: 20%;
     height: 100%;
-    float: right;
+    float: left;
 }
 .Logo-File-width{
     width: 100%;
