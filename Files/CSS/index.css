@@ -12,6 +12,7 @@ body{
     margin: 0;
     display: flex;
     background-color: #ffbf00;
+    color: white;
     text-align: right;
 }
 /* Info Card classes in bottom */
@@ -103,6 +104,7 @@ h2{
     width: 15%;
     height: 50%;
     float: right;
+    color: black;
 }
 /* Menu classes in top */
 .Persian-text{
