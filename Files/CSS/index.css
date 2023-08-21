@@ -92,7 +92,7 @@ h2{
 }
 /* Menu classes in bottom */
 .Logo{
-    width: 15%;
+    width: 200px;
     height: 100%;
     float: left;
 }
@@ -101,12 +101,12 @@ h2{
     height: 100%;
 }
 .Light-Mode{
-    width: 5%;
+    width: 100px;
     height: 50%;
     float: left;
 }
 .Register{
-    width: 15%;
+    width: 200px;
     height: 50%;
     float: right;
     color: black;
