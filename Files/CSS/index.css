@@ -62,25 +62,30 @@ h2{
 }
 .Div-middle{   
     width: 80%;
-    height: 400px;
+    height: 500px;
     float: right;
 }
 .Div-foot{   
     width: 100%;
-    height: 250px;
+    height: 500px;
     clear: both;
 }
-.Div-middle-right{
+.Div-foot-cuter{
+    width: 4%;
+    float: right;
+    height: 100%;
+}
+.Div--right{
     width: 30%;
     height: 100%;
     float: right;
 }
-.Div-middle-middle{
+.Div--middle{
     width: 40%;
     height: 100%;
     float: right;
 }
-.Div-middle-left{
+.Div--left{
     width: 30%;
     height: 100%;
     float: left;
