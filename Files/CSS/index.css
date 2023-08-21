@@ -157,3 +157,7 @@ button[type=submit]{
     border-radius: 10px;
     border-style: double;
 }
+/* scrollbar settings */
+body::-webkit-scrollbar {
+    width: 0px;
+}
